@@ -1,0 +1,5 @@
+Get input from user
+Store input in file, append, not overwrite
+
+create a reversal method that reverses all text in the file
+Take that an write it to "CSC450_CT5_mod5.txt" file
